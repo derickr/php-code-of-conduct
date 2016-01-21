@@ -76,10 +76,6 @@ This Code of Conduct is adapted from the Contributor Covenant
 (http://contributor-covenant.org), version 1.3.0, available at
 http://contributor-covenant.org/version/1/3/0/
 
-=== Website Page ===
-
-A page will be created on php.net at //php.net/codeofconduct// that will display the actual language of the code of conduct used above: [[http://contributor-covenant.org/version/1/3/0/code_of_conduct.md|Code Of Conduct]]
-
 ==== Constructive Collaboration Guidelines ====
 
 This section presents a loose collection of guidelines that focus on encouraging constructive feedback on language proposals (RFCs). RFCs are  used to introduce new features into the language. Currently, too little time is focussed on improving RFCs; instead a lot of effort exists to torpedo RFCs, attack suggestions and opinions. The point of the RFC process to to **improve** PHP — and the RFCs themselves.
