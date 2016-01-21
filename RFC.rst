@@ -159,6 +159,8 @@ The team shall consist of:
   * At least one person **without** any karma to php-src
   * At least one person with commit karma to php-documentation
 
+The person with commit-karma to php-src must be different to the person with commit-karma to php-documentation but a person with commit-karma to php-src or php-documentation may also have commit-karma to the other repository.
+
 As long as the preceding three seats are filled, there is no karma requirement (wiki or otherwise) for the remaining two seats.
 
 All team members will be elected by RFC vote (requiring 2/3 majority). 
