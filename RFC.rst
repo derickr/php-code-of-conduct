@@ -1,4 +1,5 @@
 ====== PHP RFC: Adopt Code Of Conduct ======
+
   * Version: 0.5
   * Date: 2016-01-20
   * Author: Derick Rethans <derick@php.net>
@@ -49,7 +50,6 @@ Examples of unacceptable behaviour by participants include:
   * Trolling or insulting/derogatory comments
   * Public or private harassment
   * Publishing other's private information, such as physical or electronic addresses, without explicit permission
-  * Other unethical or unprofessional conduct
 
 Project maintainers have the right and responsibility to remove, edit,
 or reject comments, commits, code, wiki edits, issues, and other
@@ -62,8 +62,13 @@ to fairly and consistently applying these principles to every aspect of
 managing this project. Project maintainers who do not follow or enforce
 the Code of Conduct may be permanently removed from the project team.
 
-This Code of Conduct applies both within project spaces and in public
-spaces when an individual is representing the project or its community.
+This Code of Conduct applies in all project spaces, as well as in other
+spaces where a user is acting in an official role as a spokesperson for
+the project.
+
+It does not apply to speech which does not pertain to be on behalf of the
+project (for example, opinions shared on social media which are not
+posted on an official project account).
 
 Instances of abusive, harassing, or otherwise unacceptable behaviour may
 be reported by contacting a project maintainer at codeofconduct@php.net. 
