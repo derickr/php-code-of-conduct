@@ -14,91 +14,81 @@ The goal of this code of conduct is to give a clear signal what is expected of c
 
 This proposal consists of several parts:
 
-  * A general "Code of Conduct", which provides a general overview on what constitutes as unacceptable behaviour
-  * A set of guidelines to foster collaboration on proposed language features through RFCs, in addition to the formal RFC process that we already have at https://wiki.php.net/rfc/voting
-  * A set of procedures to follow if individuals wish to make complaints if other project members do not follow either the Code of Conduct or the Constructive Collaboration Guidelines.
-  * A Contributor Mediation Team to assess and act upon the complaints as received through the above procedures
-  * Possibilities for strong action if things really go awry regarding a project member. For example, if project members continue to persistently ignore the Collaboration Guidelines, or violate the Code of Conduct, after several rounds of mediation and/or complaints.
+  * A general "Code of Conduct", which provides a general overview on what is expected and unacceptable behaviour.
+  * A set of guidelines to foster collaboration and productive discussion.
+  * A Community Mediation Team to assess and act upon the complaints as received through the above procedures.
+  * A set of procedures to follow if individuals wish to make complaints if other project members behave in abusive or destructive way, or in case of conflict which can not be resolved by participants themselves.
+  * Possibilities for strong action if mediation and moderation attempts by the Community Mediation Team has proven unsuccessful, and abusive or destructive behavior continues. 
 
 ===== Proposal =====
 
 ==== Code of Conduct ====
 
-This RFC proposes for the PHP project to adopt [[http://contributor-covenant.org/|version 1.3.0 of the Contributor Covenant]] as a Code of Conduct.
+This RFC proposes to adopt the following text as the PHP code of conduct:
 
 === Code of Conduct Text ===
 
-Contributor Code of Conduct
+PHP is a project developed and maintained by the PHP community, which is composed of a wide and diverse set of individuals. As the community, we commit to working together in order to create the best experience for our users and to make our community successful, growing and welcoming. With that goal in mind, we encourage members of our community to follow a set of guidelines:
 
-As contributors and maintainers of this project, and in the interest of
-fostering an open and welcoming community, we pledge to respect all
-people who contribute through reporting issues, posting feature
-requests, updating documentation, submitting pull requests or patches,
-and other activities.
+* Be respectful. 
+As a vibrant developer community and a project having a large user base, we deal with wide range of skills, experiences, approaches and opinions. Disagreement and lively discussion are not uncommon, but we all united by the common goals and even in the heat of disagreement, we keep that in mind and treat each other with respect. Disagreement is no excuse for poor behavior and poor manners. Remember that a community where people feel uncomfortable or threatened is not a productive one. 
+We commit to and expect respectful behavior when dealing with other members of the project and with wider user community.
 
-We are committed to making participation in this project a
-harassment-free experience for everyone, regardless of level of
-experience, gender, gender identity and expression, sexual orientation,
-disability, personal appearance, body size, race, ethnicity, age,
-religion, or nationality.
+* Assume good faith. 
+The diversity of our community means interaction of people with different opinions, cultural backgrounds and personal styles. Misunderstandings and mistakes can happen. Try to resolve them before they escalate into conflict, and do not presume malice when there may be none. Assuming good faith does not preclude discussion and ciritcism, and does not excuse bad behavior when there is an evidence of it.
+When disagreeing, we try to understand the source of disagreement with the presumption of good faith from all participants. Even with difference of opinions, trying to understand other's view may foster a way for a consensual solution. 
 
-Examples of unacceptable behaviour by participants include:
+* Be considerate. 
+Our work will be used by other people, and we in turn will depend on the work of others. Any decision we take will affect users and colleagues, and we should take those consequences into account when making decisions. 
+We are a world-wide community, so you might not be communicating in someone else's primary language. Be are careful of how we express yourself and if you suspect something you say may be taken in a wrong way or be hurtful to someone, consider rephrasing it or omitting the questional language altogether. It is better to be descriptive than to be concise.
+Think before you click "reply". Consider how the other party is likely to feel with the content. And, how you would feel if the same text was directed at you. Emotions are important and difficult, especially when you have never met in person.
 
-  * The use of sexualized language or imagery
-  * Personal attacks
-  * Trolling or insulting/derogatory comments
-  * Public or private harassment
-  * Publishing other's private information, such as physical or electronic addresses, without explicit permission
-  * Other unethical or unprofessional conduct
+* Be patient. 
+We might all experience some frustration now and then, but we cannot allow that frustration to turn into a personal attack or behavior destructive to the project and the community. We discuss in a manner that makes for other participnts easier to achieve a consensus and find the best solution. 
+Do not "rapid-fire" reply to an active or controversial topic, but instead take the time to compose and edit the reply containing all the information you wanted to convey. Don't use hyperbole and far-reaching analogies appealing to controversial or emotional subjects to defend your arguments.
 
-Project maintainers have the right and responsibility to remove, edit,
-or reject comments, commits, code, wiki edits, issues, and other
-contributions that are not aligned to this Code of Conduct, or to ban
-temporarily or permanently any contributor for other behaviours that they
-deem inappropriate, threatening, offensive, or harmful.
+* Be helpful and kind. 
+We strive to be a community that welcomes and supports people of all backgrounds and identities. As a language with a low entry barrier, we deal with users of very varied backgrounds and levels of experience. As a professional community, we always behave in a professional way and never insult or put down other project members or users outside PHP developer community. We make effort to help our users and other developers to achieve their goals and be successful. 
+When disagreeing, provide substantial reason instead of just saying "no". Try to outline specific points you disagree with and suggest ways of improvement. And remember, you can suggest improvements to a proposal even if you would not vote to support the proposal, and help people even if you disagree with them in some aspects or questions.
+Be tolerant to honest mistakes - don’t forget that it is human to err and focusing on blame and guilt is not productive. Instead, focus on helping to resolve issues and learning from mistakes.
 
-By adopting this Code of Conduct, project maintainers commit themselves
-to fairly and consistently applying these principles to every aspect of
-managing this project. Project maintainers who do not follow or enforce
-the Code of Conduct may be permanently removed from the project team.
+We are committed to making participation in this project a harassment-free experience for everyone, regardless of their background, personal or group identity. We do not tolerate destructive and hurtful behaviors, including such behaviors as:
 
-This Code of Conduct applies both within project spaces and in public
-spaces when an individual is representing the project or its community.
+  * Violent threats or language directed against another person.
+  * The inappropriate use of sexualized language or imagery.
+  * Personal attacks and insults.
+  * Trolling or insulting/derogatory comments.
+  * Public or private harassment.
+  * Publishing other's private information, without explicit permission.
+
+We expect all participants of the project to avoid such behaviors and to not tolerate or encourage them in others.
+We will reject any contributions exhibiting such behaviors or being inappropriate, threatening, offensive, or harmful. 
+We commit to to fairly and consistently applying these principles to every aspect of managing this project and to every project space, including source code, documentation, discussion lists, wikis and other project venues.
+
+In order to facilitate collaboration, avoid conflict and resolve disagreements, 
+we have a dedicated Community Mediation Team. This team accepts reports, facilitates conflict resolution and takes actions to ensure the fullfillment of our commitments as listed above. The exact details of the team membership and procedures are described separately.
 
 Instances of abusive, harassing, or otherwise unacceptable behaviour may
-be reported by contacting a project maintainer at codeofconduct@php.net. 
+be reported by contacting the Community Mediation Team at codeofconduct@php.net. 
 All complaints will be reviewed and investigated and will
 result in a response that is deemed necessary and appropriate to the
-circumstances. Maintainers are obligated to maintain confidentiality
-with regard to the reporter of an incident.
+circumstances. Team members are obligated to maintain confidentiality
+with regard to the reporter of an incident and incident details, within the rules of the team.
 
-This Code of Conduct is adapted from the Contributor Covenant
-(http://contributor-covenant.org), version 1.3.0, available at
-http://contributor-covenant.org/version/1/3/0/
+We encourage and expect the members of the project to to first try to resolve conflicts between themselves in a constructive manner, asking for help when needed. If that fails, we escalate the matter to the Community Mediation Team which provides a process and tools for resolving the conflict and preventing it from disrupting the collaboration on the project. 
+
+Documents used to compose this document:
+* https://www.drupal.org/dcoc
+* https://www.djangoproject.com/conduct/
+* http://contributor-covenant.org/version/1/3/0/code_of_conduct.md
 
 === Website Page ===
 
-A page will be created on php.net at //php.net/codeofconduct// that will display the actual language of the code of conduct used above: [[http://contributor-covenant.org/version/1/3/0/code_of_conduct.md|Code Of Conduct]]
-
-==== Constructive Collaboration Guidelines ====
-
-This section presents a loose collection of guidelines that focus on encouraging constructive feedback on language proposals (RFCs). RFCs are  used to introduce new features into the language. Currently, too little time is focussed on improving RFCs; instead a lot of effort exists to torpedo RFCs, attack suggestions and opinions. The point of the RFC process to to **improve** PHP — and the RFCs themselves.
-
-Below are several suggestions:
-
-  * In general, don't send more than one post per hour about a single topic. Do not "rapid-fire" reply to the active topic, but instead take the time to compose and edit the reply containing all the information you wanted to convey.
-  * Write clear and unambiguous prose. It is better to be descriptive than to be concise.
-  * Write as much as is necessary, but as little as you can get away with. 
-  * Suggest improvements to the RFC, don't just shoot it down. When disagreeing, provide substantial reason instead of just saying "no". Try to outline specific points you disagree with and suggest ways of improvement. And remember, you can suggest improvements to an RFC even if you would not vote to support the RFC.
-  * Don't use hyperbole to defend your arguments.
-  * Don't send a "quick email", especially during a heated debate.
-  * Think before you send "reply". Consider how the other party is likely to feel with the content. And, how you would feel if the same text was directed at you. Emotions are important and difficult, especially when you have never met in person.
-  * Debate the technical issues, and never attack a person's opinion. People will disagree, so be it.
+A page will be created on php.net at //php.net/codeofconduct// that will display the actual language of the code of conduct used above.
 
 === Website Page ===
 
 A page will be created on php.net at //php.net/collaboration-guidelines// that will display the collaboration guidelines as described above.
-
 
 ==== Complaints procedure ====
 
