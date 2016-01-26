@@ -33,7 +33,7 @@ Encouraged Behaviour
 
 Examples of encouraged behaviour include:
 
-- Civil discourse 
+- Civil discourse and constructive feedback
 - Fostering respectful disagreements around new features, changes, and
   technical implementations
 - Giving objective and qualified responses regarding why features and their
@@ -42,8 +42,8 @@ Examples of encouraged behaviour include:
 - Profesionalism
 - Exercising consideration to the many different points of view available to 
   us on planet earth
-- Attempt collaboration before conflict, and attempt to improve upon ideas
-  presented rather than dismissing them
+- Attempting collaboration before conflict, attempting to improve upon ideas
+  rather than dismissing them
 
 We treat each other and others with consideration, empathy, and respect.  
 We are guided by a desire to create and maintain an inclusive community purposed 
@@ -55,7 +55,7 @@ Unacceptable Behaviour
 Examples of unacceptable behaviour by participants include:
 
 - Personal attacks
-- Trolling, personal insultins, or derogatory comments
+- Trolling, personal insults, or derogatory comments
 - Public or private harassment relating to project concerns
 - The use of sexualized language or pornographic imagery
 - Publishing other's private information, such as physical or electronic
