@@ -33,36 +33,36 @@ Encouraged Behaviour
 
 Examples of encouraged behaviour include:
 
-- Respectful discourse of disagreements around new features, changes, and
-  technical implementations (e.g. discussing any RFC)
-- Objective and qualified responses regarding why features or their
+- Civil discourse and constructive feedback
+- Fostering respectful disagreements around new features, changes, and
+  technical implementations
+- Giving objective and qualified responses regarding why features and their
   implementations are lacking or otherwise not suitable
-- Mentoring of newcomers to the project
-- Behave professionally
-- Exercise consideration of the many different world views present and be
-  respectful in your speech and actions
-- Attempt collaboration before conflict, and attempt to improve upon ideas
-  presented, rather than dismissing them
+- Mentoring newcomers to the project
+- Profesionalism
+- Exercising consideration to the many different points of view available to 
+  us on planet earth
+- Attempting collaboration before conflict, attempting to improve upon ideas
+  rather than dismissing them
 
-Our expectation is that we will treat each other, and others our community
-interacts with, with consideration, empathy, and respect. Our speech and
-behaviour will be guided by a desire to create and maintain an inclusive
-community purposed towards sharing knowledge and encouraging enthusiasm for
-solving problems.
+We treat each other and others with consideration, empathy, and respect.  
+We are guided by a desire to create and maintain an inclusive community purposed 
+towards sharing knowledge and encouraging enthusiasm for solving problems.
 
 Unacceptable Behaviour
 ----------------------
 
 Examples of unacceptable behaviour by participants include:
 
-- The use of sexualized language or imagery
 - Personal attacks
-- Trolling or insulting/derogatory comments
+- Trolling, personal insults, or derogatory comments
 - Public or private harassment relating to project concerns
+- The use of sexualized language or pornographic imagery
 - Publishing other's private information, such as physical or electronic
   addresses, without explicit permission (AKA doxing) 
 - Coercing other members to vote for a particular option on an RFC, or to
   change or withdraw an RFC
+- The use of homophobic, transphobic, racist, or disability-related slurs
 - Other unethical or unprofessional conduct (i.e. anything that would be
   unacceptable in a professional context. Think: conference, not boardroom).
 
