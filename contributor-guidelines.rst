@@ -19,7 +19,6 @@ Below are several suggestions:
 * Not everyone that will read your post is a native english speaker, try to use simple words where possible.
 * Suggest improvements to the RFC, don't just shoot it down. When disagreeing, provide substantial reason instead of just saying "no". Try to outline specific points you disagree with and suggest ways of improvement. And remember, you can suggest improvements to an RFC even if you would not vote to support the RFC.
 * Don't use hyperbole to defend your arguments.
-* Don't send a "quick email", especially during a heated debate.
 * Think before you send "reply". Consider how the other party is likely to feel with the content. And, how you would feel if the same text was directed at you. Emotions are important and difficult, especially when you have never met in person.
 * Debate the technical issues, and never attack a person's opinion. People will disagree, so be it.
 
