@@ -63,8 +63,6 @@ Examples of unacceptable behaviour by participants include:
   addresses, without explicit permission (AKA doxing) 
 - Coercing other members to vote for a particular option on an RFC, or to
   change or withdraw an RFC
-- Other unethical or unprofessional conduct (i.e. anything that would be
-  unacceptable in a professional context. Think: conference, not boardroom).
 
 Application of the Code of Conduct
 ----------------------------------
