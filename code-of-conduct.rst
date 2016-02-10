@@ -77,7 +77,9 @@ Project maintainers have the right and responsibility to remove, edit, or
 reject comments, commits, code, wiki edits, issues, and other contributions
 that are not aligned to this Code of Conduct, or to ban temporarily or
 permanently any contributor for other behaviours that they deem 
-threatening, offensive, or harmful.
+threatening, offensive, or harmful. Project maintainers have to ensure
+that the offending messages are saved for review and the reasons for
+removal are clearly stated.
 
 This Code of Conduct applies both within project spaces and in public spaces
 when an individual is representing the project or its community —
