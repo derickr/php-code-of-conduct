@@ -14,9 +14,9 @@ Taken from https://github.com/derickr/php-community-health/issues/14:
 
 3. A safe, respectful, productive and collaborative environment is free of
    personal attacks and disparaging remarks of any kind, this includes (but is
-   not limited to): level of experience, gender, gender identity and
-   expression, sexual orientation, disability, personal appearance, body size,
-   race, ethnicity, age, religion, beliefs, politics, and nationality.
+   not limited to): gender, gender identity and expression, sexual orientation, 
+   disability, personal appearance, body size, race, ethnicity, age, religion, 
+   beliefs, politics, and nationality.
 
 4. Any sustained disruption of the collaborative space (mailing lists, wiki,
    bug tracker, official social media accounts) or when representing the PHP
