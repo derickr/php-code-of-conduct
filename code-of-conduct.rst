@@ -24,9 +24,7 @@ Taken from https://github.com/derickr/php-community-health/issues/14:
    will be taken by the CoC committee.
 
 5. The CoC is only about interaction with the PHP community. Your private and
-   public lives outside of the PHP community are your own. However, we reserve
-   the right to take your public conduct into account when considering your
-   project related conduct.
+   public lives outside of the PHP community are your own.
 
 Encouraged Behaviour
 --------------------
