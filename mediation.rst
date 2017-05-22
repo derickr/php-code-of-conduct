@@ -28,10 +28,6 @@ internals@php.net, including a summary of the incident and the action taken.
 The summary of the incident should include supporting evidence and
 justification for the decision.
 
-Reasonable efforts should be taken to ensure the privacy of the reporting
-party. The only two exceptions are if the incident was public or if the
-reporting party agrees to be identified. 
-
 Additionally, once per quarter (every 3 months), the Community Mediation Team
 shall produce an aggregated report as to the number of times incidents were
 reported, and the outcomes of the incidents, even if no action was taken.
